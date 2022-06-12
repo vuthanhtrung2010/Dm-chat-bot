@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/vuthanhtrung2010/Dm-chat-bot"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/vuthanhtrung2010/Dm-chat-bot/issue"
   },
-  "homepage": "https://github.com/"
+  "homepage": "https://github.com/vuthanhtrung2010/Dm-chat-bot"
 }
