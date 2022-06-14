@@ -7,13 +7,13 @@ These are the steps to make YOUR (own!!!) chatbot using Node JS
 Step 1 -
 First, fork this repository, then clone that repository from repl.it or github
 Step 2 - 
-Once your repl / host is ready, check your sidebar and see a lock sign. There, you should put "token" as your key, and as value, your bot token.
-
+Once your repl / host is ready, check your sidebar and see a lock sign. There, you should put "token" as your key, and as value, your bot token
+, put it in config.json or .env file
 Step 3 -
 Add your bot customisations in index.js and chatSend.js, when requiring clever-chat
 
 Step 4 -
-Add your name in `owner = ""` in the index.js and `prefix = ""`
+Add your prefix `prefix = ""` is in index.js
 
 Step 5 -
 Go to your "SHELL" in your right, and copy/paste run this command -
